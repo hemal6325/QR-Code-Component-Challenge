@@ -26,8 +26,8 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 
 ### Links
 
-- Solution URL: (https://github.com/Arekkusu17/QR-code-component-challenge)
-- Live Site URL: (https://arekkusu17.github.io/QR-code-component-challenge/)
+- Solution URL: (https://github.com/hemal6325/QR-Code-Component-Challenge)
+- Live Site URL: (https://hemal6325.github.io/QR-Code-Component-Challenge)
 
 ## My process
 
