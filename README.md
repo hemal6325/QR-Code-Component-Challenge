@@ -6,7 +6,7 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Project Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -24,7 +24,7 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 ![](design/PreviewDesktop.JPG)
 
 
-### Links
+### Projects Links
 
 - Solution URL: (https://github.com/hemal6325/QR-Code-Component-Challenge)
 - Live Site URL: (https://hemal6325.github.io/QR-Code-Component-Challenge)
