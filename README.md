@@ -20,7 +20,7 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](design/preview.jpg)
 ![](./mobile-preview.jpg)
 
 
