@@ -1,0 +1,75 @@
+:root{
+    
+    --primaryFont: "Outfit", sans-serif;
+    --fontSize: 15px;
+
+    --White: hsl(0, 0%, 100%);
+    --Slate300: hsl(212, 45%, 89%);
+    --Slate500: hsl(216, 15%, 48%);
+    --Slate900: hsl(218, 44%, 22%);
+}
+
+*,
+*::after,
+*::before{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+}
+body{
+    background-color: var(--Slate300);
+    font-family: var(--primaryFont);
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.card{
+    background-color: var(--White);
+    border-radius: 15px;
+    padding: 15px;
+    width: 320px;
+}
+
+.card img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 0px;
+}
+
+.card .card-body{
+    margin: 20px 15px;
+    text-align: center;
+}
+
+.card .card-body h4{
+    color: var(--Slate900);
+    font-size: 22px;
+}
+
+.card .card-body p{
+    color: var(--Slate500);
+    font-size: var(--fontSize);
+}
+
+.card .attribution{
+    font-size: 10px;
+    font-family: var(--primaryFont);
+}
