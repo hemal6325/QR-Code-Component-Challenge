@@ -6,7 +6,7 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Project Links](#projectlinks)
+  - [Project Links](#links)
 - [My Process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -24,7 +24,7 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 ![](design/PreviewDesktop.JPG)
 
 
-### Project Links
+### Links
 
 - Solution URL: (https://github.com/hemal6325/QR-Code-Component-Challenge)
 - Live Site URL: (https://hemal6325.github.io/QR-Code-Component-Challenge)
@@ -125,9 +125,7 @@ h6{
 
 ### Continued Development
 
-I would like to make my own QR Generator so this could be used as a default template.
-
-The qr code could be links to a document or something along those ways. Going to think about something useful that could come in handy.
+I would like to make my own QR Generator so this could be used as a default template. The qr code could be links to a document or something along those ways. Going to think about something useful that could come in handy.
 
 ### Useful Resources
 
