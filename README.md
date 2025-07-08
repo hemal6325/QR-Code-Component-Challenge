@@ -6,7 +6,7 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Project Links](#links)
+  - [Project Links](#profilelinks)
 - [My Process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
